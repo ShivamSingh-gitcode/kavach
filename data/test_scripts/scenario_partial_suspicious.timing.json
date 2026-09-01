@@ -1,0 +1,12 @@
+{
+  "scenario": "partial_suspicious",
+  "audio_file": "scenario_partial_suspicious.wav",
+  "note": "Escalates through Authority, Isolation and Threat/Urgency but the caller never makes a financial demand -- risk should plateau at HIGH, never reach CRITICAL.",
+  "lines": [
+    { "index": 1, "start": 0.0,  "end": 5.0,  "expected_stage": "AUTHORITY" },
+    { "index": 2, "start": 5.0,  "end": 10.0, "expected_stage": "ISOLATION" },
+    { "index": 3, "start": 10.0, "end": 15.0, "expected_stage": "THREAT_URGENCY" },
+    { "index": 4, "start": 15.0, "end": 19.5, "expected_stage": null }
+  ],
+  "total_duration": 19.5
+}

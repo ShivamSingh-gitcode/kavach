@@ -1,0 +1,42 @@
+{
+  "format": "kavach-precomputed-transcript-v1",
+  "source": "user-provided Hindi recording + user-provided transcript",
+  "language": "hi-Hinglish",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.39712,
+      "end": 5.921497,
+      "speaker": "CALLER",
+      "text": "नमस्ते, मैं CBI से बोल रहा हूँ। आपके खिलाफ money laundering का एक गंभीर मामला है। मैं Senior Officer शर्मा हूँ।"
+    },
+    {
+      "index": 2,
+      "start": 7.076916,
+      "end": 9.44542,
+      "speaker": "VICTIM",
+      "text": "Sir, कौन-सा मामला? मुझे तो इस बारे में कुछ भी पता नहीं है।"
+    },
+    {
+      "index": 3,
+      "start": 10.497347,
+      "end": 17.944185,
+      "speaker": "CALLER",
+      "text": "कृपया phone बिल्कुल भी मत काटिएगा। इस गोपनीय जांच के बारे में अपने परिवार के किसी भी सदस्य को बिल्कुल भी जानकारी नहीं देनी है। आप तुरंत किसी एकांत और private कमरे में जाकर बैठ जाइए।"
+    },
+    {
+      "index": 4,
+      "start": 17.944185,
+      "end": 23.73617,
+      "speaker": "CALLER",
+      "text": "यदि आपने हमारे साथ सहयोग नहीं किया, तो आपसे खिलाफ तुरंत arrest warrant जारी कर दिया जाएगा और police की एक team आपके पते पर भेज दी जाएगी।"
+    },
+    {
+      "index": 5,
+      "start": 23.73617,
+      "end": 29.735011,
+      "speaker": "CALLER",
+      "text": "इस case को रफा-दफा करने के लिए आपको temporary security deposit के तौर पर तुरंत 50,000 रुपये transfer करने होंगे। कृपया इन पैसों को अभी इसी वक्त transfer कीजिए।"
+    }
+  ]
+}

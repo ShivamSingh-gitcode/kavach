@@ -1,0 +1,30 @@
+{
+  "format": "kavach-precomputed-transcript-v1",
+  "source": "control_01_bank_card_dispatch.txt + control_01_bank_card_dispatch.timing.json",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hi, this is your bank calling to confirm your new debit card has been dispatched."
+    },
+    {
+      "index": 2,
+      "start": 4.0,
+      "end": 8.0,
+      "text": "It should reach your registered address within five to seven working days."
+    },
+    {
+      "index": 3,
+      "start": 8.0,
+      "end": 12.0,
+      "text": "Please let us know if you do not receive it by next week."
+    },
+    {
+      "index": 4,
+      "start": 12.0,
+      "end": 16.5,
+      "text": "You can also track the delivery status using the reference number sent to your email."
+    }
+  ]
+}

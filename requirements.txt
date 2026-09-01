@@ -1,0 +1,12 @@
+# Kavach core runtime
+Flask>=3.0,<4
+numpy>=1.24
+scikit-learn>=1.3
+python-dotenv>=1.0
+
+# Local speech-to-text (MODE A). Model weights are downloaded separately on first use.
+faster-whisper>=1.1,<2
+
+# Optional multilingual embedding backend (not used by the default evaluation).
+# sentence-transformers>=2.2
+# torch>=2.0

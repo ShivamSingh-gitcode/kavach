@@ -1,0 +1,30 @@
+{
+  "format": "kavach-precomputed-transcript-v1",
+  "source": "scenario_partial_suspicious.txt + scenario_partial_suspicious.timing.json",
+  "segments": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "end": 5.0,
+      "text": "This is the cyber crime cell, we need to verify your identity regarding a pending matter."
+    },
+    {
+      "index": 2,
+      "start": 5.0,
+      "end": 10.0,
+      "text": "This is a confidential matter, please do not discuss it with anyone at this time."
+    },
+    {
+      "index": 3,
+      "start": 10.0,
+      "end": 15.0,
+      "text": "You have very little time to respond before legal action is taken."
+    },
+    {
+      "index": 4,
+      "start": 15.0,
+      "end": 19.5,
+      "text": "We will note your cooperation and follow up with further instructions later."
+    }
+  ]
+}

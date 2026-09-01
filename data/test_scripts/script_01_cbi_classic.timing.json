@@ -1,0 +1,38 @@
+{
+  "scenario": "cbi_digital_arrest",
+  "audio_file": "script_01_cbi_classic.wav",
+  "note": "Timestamp boundaries aligned to the user-provided Hindi recording. The browser audio.currentTime is the master clock in controlled demo mode. The last three boundaries are semantic phrase boundaries within continuous speech because the recording contains no long silence between those lines.",
+  "lines": [
+    {
+      "index": 1,
+      "start": 0.39712,
+      "end": 5.921497,
+      "expected_stage": "AUTHORITY"
+    },
+    {
+      "index": 2,
+      "start": 7.076916,
+      "end": 9.44542,
+      "expected_stage": null
+    },
+    {
+      "index": 3,
+      "start": 10.497347,
+      "end": 17.944185,
+      "expected_stage": "ISOLATION"
+    },
+    {
+      "index": 4,
+      "start": 17.944185,
+      "end": 23.73617,
+      "expected_stage": "THREAT_URGENCY"
+    },
+    {
+      "index": 5,
+      "start": 23.73617,
+      "end": 29.735011,
+      "expected_stage": "FINANCIAL_DEMAND"
+    }
+  ],
+  "total_duration": 29.735011
+}
